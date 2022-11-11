@@ -24,6 +24,17 @@
     border-radius: 30px;
 }
 
+img {
+    position: absolute;
+    width: 260px;
+    left: 50%;
+    top: 39%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    z-index: 1;
+}
+
+
 #pozadina_plava {
     position: absolute;
     width: 260px;
